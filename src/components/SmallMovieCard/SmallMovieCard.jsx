@@ -6,8 +6,8 @@ import noImage from '../../img/NoImage.jpg';
 export default function SmallMovieCard({
   onload,
   movie,
-  imgWidth = '200px',
-  imgHeight = '300px',
+  imgWidth = '176px',
+  imgHeight = '264px',
 }) {
   return (
     <>

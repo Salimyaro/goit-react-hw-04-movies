@@ -89,12 +89,7 @@ export default function MoveisPage() {
                   },
                 }}
               >
-                <SmallMovieCard
-                  onload={toggleLoadind}
-                  movie={movie}
-                  imgWidth="176px"
-                  imgHeight="264px"
-                />
+                <SmallMovieCard onload={toggleLoadind} movie={movie} />
               </Link>
             </li>
           );
