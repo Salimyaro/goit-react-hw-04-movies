@@ -22,7 +22,6 @@
 .overview {
   max-height: 250px;
   margin: 0;
-  overflow: auto;
 }
 .genresList {
   list-style: none;
